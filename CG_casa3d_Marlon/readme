@@ -1,0 +1,24 @@
+Marlon Silveira Basilio
+TP de CG de Casa3D
+
+Modelo 3D da Igreja November Rain 4:
+https://youtube.com/clip/Ugkxv8zzQWhjjeZnnh5ak-ZCeAUQ9jyp94VJ
+
+gcc casa3d.c -o casa -lGL -lGLU -lglut -lm
+
+Funcoes de Teclas:
+Q: Desloca a camera para frente.
+E: Desloca a camera para tras.
+W: Desloca a camera para cima.
+S: Desloca a camera para baixo.
+A: Desloca a camera para esquerda.
+D: Desloca a camera para direita.
+Z: Volta a camera para o estado inicial.
+X: Volta a camera para o angulo inicial.
+
+Setas direcionais:
+<-: Rotaciona o angulo da camera para esquerda.
+->: Rotaciona o angulo da camera para direita.
+^: Rotaciona o angulo da camera para cima.
+v: Rotaciona o angulo da camera para baixo.
+
